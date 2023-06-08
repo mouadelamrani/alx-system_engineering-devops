@@ -1,2 +1,2 @@
 #!/bin/bash
-chmood u+x,g+x,o+r hello
+chmood ug+x,o+r hello
